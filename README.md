@@ -1,19 +1,15 @@
-## Hey there 👋
+## Hey there, I'm Samuel 👋
 
 ### 🤔 About Me
 
-I'm a **Full-Stack Software Engineer** with 4+ years of experience building scalable,
-event-driven systems — primarily in **TypeScript** and **Java**.
+I'm a **Senior Software Engineer** with 5+ years of experience building conversational solutions, microservices, web applications, and distributed systems for high-volume operations.
 
-I work at **[Compass UOL](https://compass.uol/en/home/)** developing omnichannel
-contact center solutions, and as **Front-End Tech Lead** at
-**[iTec / FURG-Embrapii](https://www.furg.br/en/)**, leading the front-end squad of
-an AI multi-agent research platform.
+My main experience includes **Node.js**, **NestJS**, **TypeScript**, **React**, **Next.js**, **Twilio**, **Google Cloud Platform**, REST APIs, event-driven architectures, SQL/NoSQL databases, conversational agents, and generative AI.
 
 - 🎓 **B.S. in Information Systems** – Universidade Federal do Rio Grande (FURG)
-- 🏢 **Full-Stack Developer** at Compass UOL — omnichannel architecture with Twilio & GCP
+- 🏗️ Focused on **microservices**, **distributed systems**, and **conversational agents**
 - 🧠 Specializing in **Java**, **Spring Boot** and **Go**
-- ⚒️ Daily stack: **TypeScript**, **Node.js**, **NestJS**, **React**, **Next.js**
+- ⚒️ Daily stack: **TypeScript**, **Node.js**, **NestJS**, **React**, **Next.js** & **Twilio**
 - ⚡ Fun fact: Big fan of **Arctic Monkeys**, **Doctor Who**, and **Harry Potter**!
 
 ### ⚙️ Tech Stack
